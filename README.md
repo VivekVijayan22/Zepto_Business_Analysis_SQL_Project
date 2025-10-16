@@ -1,6 +1,6 @@
 # Zepto_Business_Analysis_SQL
 ![](https://github.com/Saswati-18/Zepto_Business_Analysis_SQL/blob/main/zepto_pic.jpg)
-This repository contains resources for analyzing and optimizing Zepto’s quick commerce operations in India. The project uses SQL, Power BI, and Excel to uncover actionable insights across customer behavior, product performance, transactions, and delivery efficiency.
+This repository contains resources for analyzing and optimizing Zepto’s quick commerce operations in India. The project uses SQL and Excel to uncover actionable insights across customer behavior, product performance, transactions, and delivery efficiency.
 
 ---
 
